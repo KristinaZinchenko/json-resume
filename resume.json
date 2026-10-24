@@ -1,0 +1,236 @@
+{
+    "meta": {
+        "theme": "sidebar-photo-strip"
+    },
+    "basics": {
+        "name": "Kristina Roille",
+        "label": "Kristina Roille (Zinchenko)",
+        "image": "https://avatars.githubusercontent.com/u/49105720",
+        "summary": "Results-driven Engineer with a PhD background and hands-on experience in Quality and Manufacturing, offering deep expertise in complex project coordination and systematic quality assurance. Highly skilled in conducting risk assessments, executing root-cause investigations, and managing technical risks. A precise and adaptive communicator skilled at bridging gaps between technical teams, operations, and stakeholders to ensure seamless project execution. Quadrilingual fluency in English, French, Ukrainian, and Russian.",
+        "url": "https://kristinazinchenko.github.io/json-resume/",
+        "email": "kristina.roille@gmail.com",
+        "location": {
+            "postalCode": "CH-5600",
+            "city": "Lenzburg",
+            "countryCode": "CH",
+            "region": "Aargau"
+        },
+        "profiles": [
+            {
+                "url": "https://ch.linkedin.com/in/kristina-zinchenko-6a93941b4",
+                "username": "kristina Zinchenko",
+                "network": "linkedin"
+            }
+        ]
+    },
+    "education": [
+        {
+            "startDate": "2016-10-17",
+            "endDate": "2020-10-31",
+            "area": "Ultrafast Spectroscopy and Attosecond Science, Laboratory of Physical Chemistry",
+            "studyType": "Doctorate",
+            "institution": "Eidgenössische Technische Hochschule Zürich, Switzerland",
+            "url": "https://atto.ethz.ch/"
+        },
+        {
+            "startDate": "2014-09-01",
+            "endDate": "2016-09-01",
+            "area": "Physics and Optical Engineering",
+            "studyType": "Master",
+            "institution": "Zaporizhzhia National University, Ukraine",
+            "url": "https://www.znu.edu.ua/eng/university/about-us"
+        },
+        {
+            "startDate": "2014-09-01",
+            "endDate": "2015-07-31",
+            "area": "Condensed Matter Physics: Semiconductors",
+            "studyType": "Master",
+            "institution": "Zaporizhzhia National University, Ukraine",
+            "url": "https://www.znu.edu.ua/eng/university/about-us"
+        },
+        {
+            "startDate": "2010-09-01",
+            "endDate": "2014-07-31",
+            "area": "Physics",
+            "studyType": "Bachelor",
+            "institution": "Zaporizhzhia National University, Ukraine",
+            "url": "https://www.znu.edu.ua/eng/university/about-us"
+        }
+    ],
+    "references": [
+        {
+            "reference": "Reference is available upon request.",
+            "name": "Samuel Ruckstuhl, Team Leader Product Engineering BIMOS, Hitachi Energy, Ltd."
+        },
+        {
+            "reference": "Reference is available upon request.",
+            "name": "Markus Geiser, PhD, Director of Mergers & Acquisitions, IRsweep, Sensirion AG"
+        },
+                {
+            "reference": "Reference is available upon request.",
+            "name": "Prof. Dr. Hans Jakob Wörner, Ordentlicher Professor am Departement Chemie und Angewandte Biowissenschaften, ETHZ"
+        }
+    ],
+    "skills": [
+        {
+            "keywords": [
+                "Yield & Defect Management: Onto Innovation Discover Defect Software.",
+                "Manufacturing Execution Systems (MES): IBM SiView.",
+                "Fab & Operations Analytics: FabTime, Computer-Aided Quality (Solvtec CAQ/SWM-APQP/ABW).",
+                "Operations & Supply Chain: Production structuring & execution, Enterprise Resource Planning administration (Odoo ERP)."
+            ],
+            "level": "",
+            "name": "Semiconductor & Manufacturing Systems"
+        },
+        {
+            "keywords": [
+                "Project & Research Management: Agile & Scrum methodologies, R&D execution, milestone planning, technical writing.",
+                "Optical Engineering & Hardware Automation: Optical setup design, laboratory experimentation, laboratory equipment calibration, LabVIEW.",
+                "Computer-Aided Design (CAD): Autodesk Inventor."
+            ],
+            "level": "",
+            "name": "Engineering & Experimental Design"
+        },
+        {
+            "keywords": [
+                "Programming & Core Infrastructure: Scientific Python Stack, SQL, GUI development (PyQt5, Qt Creator).",
+                "Data Processing & Business Intelligence: Advanced data analytics, Power BI, data visualisation with Python.",
+                "Version Control & DevOps: Git, GitHub, Azure DevOps."
+            ],
+            "level": "",
+            "name": "Software Engineering & Data Science"
+        },
+        {
+            "keywords": [
+                "Knowledge & Project Management: Jira, Confluence, Notion.",
+                "Graphic Design & Vector Editors: Inkscape, Affinity Designer, Adobe Illustrator, GIMP.",
+                "Office Productivity & Collaboration: LaTeX, Microsoft 365 (Word, Excel, Outlook, Teams, PowerPoint, SharePoint, OneDrive)."
+            ],
+            "level": "",
+            "name": "Business Productivity & Graphics"
+        },
+        {
+            "keywords": [
+                "Agency / Autodidacticism",
+                "Attentiveness / Dedication",
+                "Problem Solving / Tinkering",
+                "Adaptability / Flexibility",
+                "Teamwork / Cross-functional collaboration",
+                "Continuous Improvement",
+                "Creative & Structured Thinking",
+                "Curiosity / Open-Mindedness",
+                "Empathy / Honesty",
+                "Pragmatism / Perseverance",
+                "Decision making under uncertainty"
+            ],
+            "level": "",
+            "name": "Soft Skills"
+        }
+    ],
+    "work": [
+        {
+            "summary": "Ownership of the following core tasks:",
+            "website": "https://www.hitachienergy.com/",
+            "name": "Hitachi Energy Ltd.",
+            "location": "Lenzburg, Switzerland",
+            "position": "Product Development Engineer, Defectivity, BiMOS FrontEnd",
+            "startDate": "2024-01-08",
+            "endDate": "to present",
+            "highlights": [
+                "Inspection strategy: Further develop and refine the existing inspection strategy (inline and outgoing); develop and maintain the offline automatic defect classification (defect categorization, defect criticality definition, in-time reporting); support the implementation of essential tools such as the online automatic defect classification and inspection recipe management; foresee new incoming defects and execute their containment via risk assessments.",
+                "Defect management & enablement: Take full ownership of defectivity-related topics, including the defect catalogues for operators and engineers and the NMR (Nonconforming Material Review) portfolio; ensure these documents are regularly updated and maintained, and coordinate training sessions for both operators and engineers.",
+                "Data-driven quality, yield and cost initiatives: Optical yield monitoring: Perform regular optical yield monitoring and continuously improve the monitoring processes; maintain data acquisition, reporting and analysis tools; support the integration of new solutions as required. Optical yield improvement: Analyze and classify optical yield data to identify opportunities for sustainable improvements; lead and execute improvement projects; provide data analysis, classification and defectivity expertise to support projects led by product, process, and process integration engineers.",
+                "Quality & yield issue resolution: Resolve and analyze product quality and yield issues related to optical yield through systematic investigation — evaluating and ensuring the quality of inspection recipes by reviewing and validating improvements introduced by metrology engineers; analyzing and classifying optical defects and quality concerns from inline and outgoing inspections to identify process-related root causes; contributing defectivity expertise during quality processes (NMR, Risk Assessment, CAR(Corrective Action Request)); triggering and conducting NMR and CAR activities with relevant data analysis; supporting ECR (Engineering Change Request) activities and new tool qualifications with defectivity analysis; cultivating proactive implementation of corrective and preventive actions.",
+                "Projects: Optical Yield Improvement: Led the rollout of offline automated defect classification and reporting, reducing manual classification effort by 85%, shortening defect response times, improving fine-grained defect classification accuracy, and leading risk assessments for defect criticality. Identified key optical yield detractors, supported process teams in eliminating the root causes through data-driven analysis, and implemented containment strategies for remaining dominating non-critical and cosmetic defect categories."
+            ]
+        },
+        {
+            "summary": "Ownership of the following core tasks included:",
+            "website": "https://en.wikipedia.org/wiki/IRsweep",
+            "name": "IRsweep, Sensirion AG",
+            "location": "Stäfa, Switzerland",
+            "position": "Manufacturing Engineer",
+            "startDate": "2021-02-01",
+            "endDate": "2023-12-31",
+            "highlights": [
+                "Structuring and executing the production of spectrometer instruments.",
+                "Managing procurement, including strategic sourcing, term negotiations, purchasing, and quality control.",
+                "Maintaining bills of materials, inventory data, and valuations within the company's manufacturing resource planning system.",
+                "Establishing quality control procedures for selected components and managing product lifecycles.",
+                "Directing quality control, issue tracking, and system verification for final product release.",
+                "Cultivating and maintaining strong supplier relationships. Implementing quality assurance processes.",
+                "Liaising between suppliers, customers, and research & development team.",
+                "Organizing and optimizing manufacturing workflows and resources while researching and implementing process optimization strategies to maximize overall work efficiency.",
+                "Authoring process and assembly documentation and supporting the product certification process.",
+                "Characterizing, mounting, and packaging semiconductor quantum cascade lasers.",
+                "Facilitating knowledge sharing (via Confluence) by continuously updating assembly procedures with key technical learnings. Writing technical documentation and reporting.",
+                "Conducting equipment damage assessment. Troubleshooting and repairing complex equipment.",
+                "Resolving production system issues and supporting application (field service) engineers with product servicing.",
+                "Optimizing manufacturing and assembly workflows using Scrum methodology."
+            ]
+        },
+        {
+            "summary": "Subject: ”Attosecond time‐resolved absorption spectroscopy in the water window” to investigate light-matter interaction by means of ultrafast spectroscopy technique in atoms and small molecules in the gas and liquid phases. Main responsibilities encompassed:",
+            "website": "https://atto.ethz.ch/irsweep",
+            "name": "Eidgenössische Technische Hochschule Zürich",
+            "location": "Zürich, Switzerland",
+            "position": "Research & Development (& Doctorate)",
+            "startDate": "2016-10-17",
+            "endDate": "2021-02-28",
+            "highlights": [
+                "Research in Ultrafast Spectroscopy and Attosecond Science.",
+                "Investigation of light-matter interaction by means of ultrafast spectroscopy technique in atoms and small molecules in the gas and liquid phases.",
+                "Design and end-to-end construction of the beamline for the attosecond time-resolved absorption spectroscopy of gases and liquids in the water window.",
+                "Design and setup of attosecond beamline accessories, including an X-ray generation station, and spatiotemporal metrology stations in the femtosecond and attosecond domains.",
+                "Daily use and maintenance of an amplified femtosecond state-of-art laser system.",
+                "Software engineering, Scientific Computing and Data Analysis (Python: scipy, lmfit, pandas, epics, h5py, matplotlib).",
+                "Application Development (PyQt5, Qt Creator, LabVIEW).",
+                "Source Control (git) / Documentation / Testing.",
+                "Management of laboratory equipment and assets.",
+                "Side note: Published papers are available upon request."
+            ]
+        }
+    ],
+    "interests": [
+        {
+            "name": "📚 Reading",
+            "keywords": ["Books (incl. Self-Help, Personal Development, Personal Finance)"]
+        },
+        {
+            "name": "🧶 Hand-Crafting",
+            "keywords": ["Drawing", "Painting", "Knitting", "Braiding", "Crocheting"]
+        },
+                {
+            "name": "🏸 Cultivating epicurean outlook on life",
+            "keywords": [
+                "Drink Coffee, Belgian/Craft Beers, Barrel-Aged Spirits"
+            ]
+        },
+        {
+            "name": "🎮 Playing",
+            "keywords": ["Card Games", "Board games"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Fluent (speaking and writing)"
+        },
+        {
+            "language": "French",
+            "fluency": "Fluent (speaking and writing)"
+        },
+        {
+            "language": "Ukrainian",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Russian",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "German",
+            "fluency": "Currently learning B2 level"
+        }
+    ]
+}
